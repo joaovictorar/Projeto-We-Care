@@ -5,4 +5,4 @@
 <p>Imagem Desktop</p>
 <img src="https://github.com/joaovictorar/Projeto-We-Care/blob/main/img/wecare-desktop.PNG?raw=true">
 <p>Imagem celular</p>
-<img middle src="https://github.com/joaovictorar/Projeto-We-Care/blob/main/img/wecare-celular.PNG?raw=true">
+<img src="https://github.com/joaovictorar/Projeto-We-Care/blob/main/img/wecare-celular.PNG?raw=true">
