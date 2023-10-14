@@ -1,4 +1,4 @@
-<h1 style: bold>Projeto = We Care About Your Pet</h1>
+<h1 style: bold>Projeto We Care About Your Pet</h1>
 <br>
 <br>
 <h2>Segundo projeto responsivo!</h2>
